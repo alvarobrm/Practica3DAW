@@ -51,3 +51,20 @@
 2015-04-23 09:53:21,374 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2015-04-23 09:53:21,376 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-04-23 09:53:21,376 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alvaroberrocal/Downloads/angular/ejercicioangular6/src/test/resources
+2015-04-23 09:56:37,428 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.sidelab:ejercicioangular5:0.1.0 @ /Users/alvaroberrocal/Downloads/angular/ejercicioangular5/pom.xml.
+2015-04-23 09:56:37,714 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicioangular5/src/main/java
+2015-04-23 09:56:37,715 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ejercicioangular5/src/main/resources
+2015-04-23 09:56:37,716 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ejercicioangular5/src/main/resources
+2015-04-23 09:56:37,716 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicioangular5/src/test/java
+2015-04-23 09:56:37,793 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2015-04-23 09:56:38,380 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.sidelab:ejercicioangular5:0.1.0 @ /Users/alvaroberrocal/Downloads/angular/ejercicioangular5/pom.xml.
+2015-04-23 09:56:38,854 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-23 09:56:38,855 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-23 09:56:38,856 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2015-04-23 09:56:38,879 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-23 09:56:38,879 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alvaroberrocal/Downloads/angular/ejercicioangular5/src/test/resources
+2015-04-23 09:56:40,158 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-23 09:56:40,158 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-23 09:56:40,158 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-23 09:56:40,160 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-23 09:56:40,160 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alvaroberrocal/Downloads/angular/ejercicioangular5/src/test/resources
