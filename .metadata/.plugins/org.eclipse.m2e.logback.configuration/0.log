@@ -68,3 +68,26 @@
 2015-04-23 09:56:40,158 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2015-04-23 09:56:40,160 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-04-23 09:56:40,160 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alvaroberrocal/Downloads/angular/ejercicioangular5/src/test/resources
+2015-04-23 09:59:07,826 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.sidelab:ejercicioangular5:0.1.0 @ /Users/alvaroberrocal/Downloads/angular/ejercicioangular5/pom.xml.
+2015-04-23 09:59:08,126 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-23 09:59:08,126 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-23 09:59:08,126 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2015-04-23 09:59:08,141 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-23 09:59:08,141 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alvaroberrocal/Downloads/angular/ejercicioangular5/src/test/resources
+2015-04-23 09:59:09,324 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.sidelab:ejercicioangular5:0.1.0 @ /Users/alvaroberrocal/Downloads/angular/ejercicioangular5/pom.xml.
+2015-04-23 09:59:09,770 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-23 09:59:09,773 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-23 09:59:09,774 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2015-04-23 09:59:09,790 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-23 09:59:09,790 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alvaroberrocal/Downloads/angular/ejercicioangular5/src/test/resources
+2015-04-23 09:59:11,055 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-23 09:59:11,055 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-23 09:59:11,055 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-23 09:59:11,060 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-23 09:59:11,061 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alvaroberrocal/Downloads/angular/ejercicioangular5/src/test/resources
+2015-04-23 09:59:37,072 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.sidelab:PracticaZoo:0.1.0 @ /Users/alvaroberrocal/Downloads/angular/ejercicioangular5/pom.xml.
+2015-04-23 09:59:37,412 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-23 09:59:37,413 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-23 09:59:37,413 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-04-23 09:59:37,416 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-23 09:59:37,417 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alvaroberrocal/Downloads/angular/ejercicioangular5/src/test/resources
